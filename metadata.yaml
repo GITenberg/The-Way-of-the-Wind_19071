@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8445'
     url: http://www.gutenberg.org/2009/agents/8445
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19071#The-Way-of-the-Wind
 gutenberg_issued: '2006-08-17'
 gutenberg_type: Text
 identifiers:
